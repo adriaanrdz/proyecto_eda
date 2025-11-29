@@ -5,6 +5,7 @@ Este proyecto contiene un análisis exploratorio de un dataset de freelancers, i
 ---
 
 ## 1. Estructura del proyecto
+```
 proyecto_eda/
 │
 ├── data/ ← CSVs originales y limpios
@@ -17,12 +18,12 @@ proyecto_eda/
 │ └── eda.ipynb
 │
 ├── src/ ← Funciones y módulos Python
-│ ├── init.py
+│ ├── __init__.py
 │ └── funciones_limpieza.py
 │
 ├── .gitignore ← Archivos y carpetas a ignorar por Git
 └── README.md
-
+```
 ---
 
 ## 2. Objetivo
